@@ -1,2 +1,2 @@
 Autor: Michał Grygiel
-Kurs: DevOps
+Kurs: Technologie DevOps
